@@ -11,9 +11,9 @@ android端采用kotlin开发，这个与我而言是萌新，不过用了之后�
 web端采用vue2开发，主要是对移动端的维护系统，以及微信公众号的相关功能。
 
 ## 线上体验
-iOS: https://apps.apple.com/cn/app/id1502658887
-android: https://sj.qq.com/myapp/detail.htm?apkName=com.icodezign.beastush
-官网: https://beastush.com/download
+iOS: https://apps.apple.com/cn/app/id1502658887  
+android: https://sj.qq.com/myapp/detail.htm?apkName=com.icodezign.beastush  
+官网: https://beastush.com/download  
 
 
 ## 项目概况
