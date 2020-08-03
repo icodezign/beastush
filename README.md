@@ -37,4 +37,3 @@ android: https://sj.qq.com/myapp/detail.htm?apkName=com.icodezign.beastush
 ![17](https://github.com/icodezign/beastush/blob/master/17.jpg)
 ![18](https://github.com/icodezign/beastush/blob/master/18.jpg)
 ![19](https://github.com/icodezign/beastush/blob/master/19.jpg)
-![20](https://github.com/icodezign/beastush/blob/master/20.jpg)
